@@ -1,5 +1,5 @@
 
-Welcome to my GitHub! I'm Ibrahim Olalekan, an English education studying students thats obsessed with technology and  who's transitioning into Software Engineering. Through self-study  I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter <a href = "https://twitter.com/_horla_braheem">j_brgnz</a> where I'm currently enjoying  <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click">challenges.
+Welcome to my GitHub! I'm Ibrahim Olalekan, an English education studying students thats obsessed with technology and  who's transitioning into Software Engineering. Through self-study  I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter <a href = "https://twitter.com/_horla_braheem">_horla_braheem</a> where I'm currently enjoying  <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click">challenges.
 
 
 
@@ -22,8 +22,8 @@ Although, I think I'll wait to learn React before I build the website.
 - I will speak German fluently in 5 months or so.
 
 ### ☕ Get in touch
-- LinkedIn: <a href = "https://www.linkedin.com/in/juel-braganza/">juel-braganza</a>
-- Twitter: <a href = "https://twitter.com/j_brgnz">j_brgnz</a>
+- LinkedIn: <a href = "https://www.linkedin.com/in/jimoh-ibrahim/">jimoh-ibrahim</a>
+- Twitter: <a href = "https://twitter.com/_horla_braheem">_horla_braheem</a>
 
 <br>
 <br>
