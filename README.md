@@ -3,13 +3,12 @@ Welcome to my GitHub! I'm Ibrahim Olalekan, an English education studying studen
 
 
 
-### ✔️ I'm currently learning
+### ✔️ I'm currently doing and building things with 
 - JavaScript
 - ReactJS
 
 ### 👩‍💻 I'm working on
-- Building projects and my portfolio website. 
-Although, I think I'll wait to learn React before I build the website.
+- Building projects and more projects 
 
 ### 💡 Goals for 2020
 - Complete #100DaysOfCode challenge
