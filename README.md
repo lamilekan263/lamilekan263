@@ -1,5 +1,5 @@
 
-Welcome to my GitHub! I'm Ibrahim Olalekan, an English education studying students thats obsessed with technology and  who's transitioning into Software Engineering. Through self-study  I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter <a href = "https://twitter.com/_horla_braheem">_horla_braheem</a> where I'm currently enjoying  <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click">challenges.
+Welcome to my GitHub! I'm Ibrahim Olalekan, an English education studying students thats obsessed with technology and transitioning into Software Engineering. Through self-study  I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter <a href = "https://twitter.com/_horla_braheem">_horla_braheem</a> where I'm currently enjoying  <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click">challenges.
 
 
 
